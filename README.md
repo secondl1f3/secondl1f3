@@ -1,6 +1,6 @@
 <h2>Hello, I'm Ahmad Fajar!</h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Software Engineer at <a href="http://www.kipaskipas.com">KipasKipas</a>
+<p><em>Software Engineer at <a href="http://www.sayurbox.com">Sayurbox</a>
 </em> and Computer Science Master Student at King Abdulaziz University <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </p>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/fjr_notes?label=Follow)
@@ -13,17 +13,17 @@
 ```javascript
 const anmol = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Typescript", "Python", "Java"],
-    askMeAbout: ["web development", "artificial intelligence", "natural language processing", "scholarships abroad"],
+    code: ["Javascript", "Typescript", "Python", "Java", "Go"],
+    askMeAbout: ["web development", "artificial intelligence", "natural language processing", "scholarships abroad", "software engineer career"],
     technologies: {
         backEnd: {
-            java: ["spring boot", "spring mvc", "native"]
-            ruby: ["ruby on rails"]
+            go: ["go core"]
+            java: ["spring boot", "spring mvc", "core", "hibernate"]
             js: ["node", "express", "meteor"],
-            python: ["flask", "jango"]
+            python: ["fastAPI", "django"]
         },
-        devOps: ["AWS", "Docker🐳"],
-        databases: ["mongo", "MySql", "postgreSQL", "redis"],
+        devOps: ["AWS", "Docker🐳", "Jenkins", "Kubernetes"],
+        databases: ["mongo", "MySql", "postgreSQL", "redis", "Elastic"],
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
     currentFocus: "Named Entity Classification and Recognition",
