@@ -1,6 +1,6 @@
 <h2>Hello, I'm Ahmad Fajar!</h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Software Engineer</em> and Computer Science Master Student at King Abdulaziz University <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </p>
+<p><em>Software Engineer</em> and Computer Science Phd Student at King Abdulaziz University <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </p>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/fjr_notes?label=Follow)
 [![Linkedin: fajar](https://img.shields.io/badge/-ahmad%20fajar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmad-fajar/)](https://www.linkedin.com/in/ahmad-fajar)
@@ -17,16 +17,16 @@ const anmol = {
     technologies: {
         backEnd: {
             go: ["go core"]
-            java: ["spring boot", "spring mvc", "core", "hibernate"]
-            js: ["node", "express", "meteor"],
+            java: ["spring boot", "spring MVC", "core", "hibernate"]
+            js: ["Node", "Next.js", "React.js"],
             python: ["fastAPI", "django"]
         },
         devOps: ["AWS", "Docker🐳", "Jenkins", "Kubernetes"],
-        databases: ["mongo", "MySql", "postgreSQL", "redis", "Elastic"],
+        databases: ["MongoDB", "MySql", "PostgreSQL", "Redis", "Elastic"],
     },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: "Named Entity Classification and Recognition",
-    businessApplicationArea: "e-commerce","social media",
+    architecture: ["Monolith", "Microservices"],
+    currentFocus: ["Semantic Search Engine", "Natural Language Processing", "Large Language Modeling"],
+    businessApplicationArea: ["E-Commerce", "Administration management", "Machine Leaning development"]
 };
 ```
 
